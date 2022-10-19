@@ -91,3 +91,7 @@ p {
   border-radius: 4px;
   box-shadow: var(--box-shadow);
 }
+
+.title-photo {
+  font-size: 28px;
+}
